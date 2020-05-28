@@ -1,0 +1,8 @@
+{
+    "m2m:ae": {
+        "rn": "gateway_ae",
+        "api": "A01.com.company.gatewayApp",
+	"apn": "gateway_ae",
+        "rr": "false"
+    }
+}

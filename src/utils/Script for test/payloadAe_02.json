@@ -1,0 +1,9 @@
+{
+    "m2m:ae": {
+        "rn": "light_ae2",
+        "api": "A01.com.company.lightApp02",
+	"apn": "light_ae2",
+        "rr": "true",
+		"poa": "http://172.27.39.4:8080"
+    }
+}

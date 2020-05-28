@@ -1,0 +1,19 @@
+{
+   "_comment": "this file used to resolve name difference between opcua and openmtc names",
+   "resourceName": "resourceName",
+   "resourceType": "resourceType",
+   "resourceID": "resourceID",
+   "parentID": "parentID",
+   "creationTime": "creationTime",
+   "lastModifiedTime": "lastModifiedTime",
+   "CSE-ID": "CSE_ID",
+   "cseType": "cseType",
+   "AE-ID": "AE_ID",
+   "App-ID": "App_ID",
+   "appName": "appName",
+   "currentNrOfInstances": "currentNrOfInstances",
+   "content": "content",
+   "contentSize": "contentSize"
+
+   
+}
