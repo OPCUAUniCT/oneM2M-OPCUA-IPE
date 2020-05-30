@@ -1,5 +1,6 @@
 # oneM2M-OPCUA-IPE
 The oneM2M-OPCUA-IPE is an implementation based on Phyton language to realize the full OPCUA-IPE architecture shown in the following Figure.
+
 ![Alt text](https://github.com/OPCUAUniCT/oneM2M-OPCUA-IPE/blob/master/docs/OPCUA-IPE%20architecture..PNG)
 
 oneM2M-OPCUA-IPE realizes an interworking solution to make interoperable oneM2M and OPC UA. It is based on the ad-hoc definition of an oneM2M IPE, called OPCUA-IPE. The aim of this solution is the integration of oneM2M–based IoT devices with OPC UA–compliant industrial applications; this integration requires that information produced by oneM2M–based IoT devices must be published by an OPC UA Server allowing the OPC UA-based client applications the access to this information. For this reason, the design of the OPCUA-IPE is based on the assumption to use an OPC UA Server to expose the resources belonging to the oneM2M system towards the OPC UA domain. OPC UA Clients may connect to the OPC UA Server offered by the OPCUA-IPE through OPC UA interfaces; in this way, accessing the information maintained by the OPC UA Server, means accessing the information relevant to resources present in the oneM2M system.
